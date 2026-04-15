@@ -3,7 +3,7 @@
 Building backend projects with Python.
 
 ## Current focus
-- Python foundations -> intermediate backend skills
+- Transitioning from Python foundations to backend development
 - CLI tools
 - APIs
 - data pipelines
@@ -22,7 +22,7 @@ Building backend projects with Python.
 - CLI app development
 
 ## 2026 goal
-Build enough real Python backend projects to transition from foundations into junior backend-level work.
+Build strong Python backend projects that prove junior-level capability.
 
 ## Featured repositories
 - [mtg-archetype-trends-api](https://github.com/andrewmurphy-dev/mtg-archetype-trends-api)
