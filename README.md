@@ -1,6 +1,14 @@
 # Andrew Murphy
 
-Building backend projects with Python.
+Backend Developer (Python) — Building Data-Driven APIs & Systems
+
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![Git](https://img.shields.io/badge/Git-VersionControl-orange)
+
+---
+
+I design and build backend services that process, analyze, and expose data through clean APIs.
 
 ## Current focus
 - Transitioning from Python foundations to backend development
