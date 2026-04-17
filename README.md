@@ -1,4 +1,4 @@
-
+<!-- Copy this file to your profile repo as README.md (repo name = your username) -->
 
 <div align="center">
 
@@ -23,29 +23,31 @@
 
 ### `>>>` About
 
-I design and build **backend services** that process, analyze, and expose data through **clean APIs** — from CLIs to pipelines to production-minded structure.
+**Backend developer (Python)** — I build services that **ingest, transform, and serve data** through **REST APIs** and small **CLI tools**, with clear structure, version control, and readable code.
+
+*Open to backend / API-focused roles · Based in Japan*
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 #### Current focus
-- Transitioning from Python foundations → **backend engineering**
-- **CLI tools**, **REST APIs**, **data pipelines**, **Git**, and solid **project layout**
+- Shipping **portfolio backend work** in public: APIs, **data pipelines**, and **CLI** utilities
+- Leveling up on **FastAPI**, **Git/GitHub workflows**, testing, and **project structure** recruiters can review in-repo
 
 #### 2026 goal
-Build strong Python backend projects that clearly demonstrate **junior-ready** capability.
+Ship **2–3 strong Python backend projects** (documented, testable APIs or pipelines) that hiring managers can **clone, run, and inspect** — proof of how I work, not just tutorials.
 
 </td>
 <td width="50%" valign="top">
 
 #### What I'm building
-- **MTG Archetype Trends API**
-- **Housing Data Pipeline Service**
-- **Practical Python CLI tools**
+- **MTG Archetype Trends API** — domain data exposed via an API
+- **Housing Data Pipeline Service** — ingest / transform / output patterns
+- **CLI tools** — automation and developer-facing utilities
 
 #### Stack
-`Python` · `FastAPI` · `Git/GitHub` · `JSON & file I/O` · `CLI apps`
+`Python` · `FastAPI` · `REST` · `Git/GitHub` · `JSON & files` · `CLI` — deepening **Postgres** & **Docker** next
 
 </td>
 </tr>
@@ -79,17 +81,17 @@ Build strong Python backend projects that clearly demonstrate **junior-ready** c
 
 ### Featured repos
 
-| Project | Focus |
+| Project | What it shows |
 |--------|--------|
-| [**mtg-archetype-trends-api**](https://github.com/andrewmurphy-dev/mtg-archetype-trends-api) | API · data |
-| [**housing-data-pipeline-service**](https://github.com/andrewmurphy-dev/housing-data-pipeline-service) | Pipelines |
-| [**SlotStatus**](https://github.com/andrewmurphy-dev/SlotStatus) | Practical tooling |
+| [**mtg-archetype-trends-api**](https://github.com/andrewmurphy-dev/mtg-archetype-trends-api) | REST API · data modeling · JSON responses |
+| [**housing-data-pipeline-service**](https://github.com/andrewmurphy-dev/housing-data-pipeline-service) | ETL-style pipeline · files / data flow |
+| [**SlotStatus**](https://github.com/andrewmurphy-dev/SlotStatus) | CLI · real-world utility |
 
 ---
 
 ### Right now
 
-Working through a structured Python plan to sharpen **code quality** and move confidently toward **backend development** — APIs first, systems thinking always.
+Actively building in public: **readable PRs**, clearer **READMEs**, and APIs you can **run locally** — the same signals I’d want to see if I were reviewing a candidate.
 
 ---
 
