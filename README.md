@@ -1,41 +1,104 @@
-# Andrew Murphy
 
-Backend Developer (Python) — Building Data-Driven APIs & Systems
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
-![Git](https://img.shields.io/badge/Git-VersionControl-orange)
+<div align="center">
+
+<!-- Animated tagline — Python blue #3776AB -->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Andrew+Murphy;Backend+Developer+%E2%80%94+Python;APIs+%E2%80%A2+Data+Pipelines+%E2%80%A2+CLI+Tools;Building+data-driven+systems+%F0%9F%90%8D" alt="Andrew Murphy — typing intro" />
+
+<br/>
+
+<!-- Core badges: Python yellow + blue palette -->
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Backend](https://img.shields.io/badge/Backend-1e293b?style=for-the-badge)](https://github.com/andrewmurphy-dev)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=120&section=header&text=Python&fontSize=42&fontColor=FFD43B&animation=twinkling&fontAlignY=35" alt="Python blue and yellow wave banner" width="100%" />
+
+</div>
 
 ---
 
-I design and build backend services that process, analyze, and expose data through clean APIs.
+### `>>>` About
 
-## Current focus
-- Transitioning from Python foundations to backend development
-- CLI tools
-- APIs
-- data pipelines
-- Git and project structure
+I design and build **backend services** that process, analyze, and expose data through **clean APIs** — from CLIs to pipelines to production-minded structure.
 
-## What I’m building
-- MTG Archetype Trends API
-- Housing Data Pipeline Service
-- practical Python CLI tools
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Current stack
-- Python
-- Git / GitHub
-- FastAPI
-- JSON / file handling
-- CLI app development
+#### Current focus
+- Transitioning from Python foundations → **backend engineering**
+- **CLI tools**, **REST APIs**, **data pipelines**, **Git**, and solid **project layout**
 
-## 2026 goal
-Build strong Python backend projects that prove junior-level capability.
+#### 2026 goal
+Build strong Python backend projects that clearly demonstrate **junior-ready** capability.
 
-## Featured repositories
-- [mtg-archetype-trends-api](https://github.com/andrewmurphy-dev/mtg-archetype-trends-api)
-- [housing-data-pipeline-service](https://github.com/andrewmurphy-dev/housing-data-pipeline-service)
-- [SlotStatus](https://github.com/andrewmurphy-dev/SlotStatus)
+</td>
+<td width="50%" valign="top">
 
-## Right now
-I’m working through a structured Python plan focused on building practical projects, improving code quality, and moving toward backend development.
+#### What I'm building
+- **MTG Archetype Trends API**
+- **Housing Data Pipeline Service**
+- **Practical Python CLI tools**
+
+#### Stack
+`Python` · `FastAPI` · `Git/GitHub` · `JSON & file I/O` · `CLI apps`
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+**Tech I reach for**
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,git,github,postgres,docker,linux&theme=dark&perline=8" alt="Tech stack icons" />
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Replace username if yours differs -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=andrewmurphy-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3776AB&icon_color=FFD43B&text_color=c9d1d9&border_radius=12" alt="GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=andrewmurphy-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=3776AB&fire=FFD43B&currStreakLabel=3776AB" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewmurphy-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3776AB&text_color=c9d1d9&langs_count=8&border_radius=12" alt="Top languages" />
+
+</div>
+
+---
+
+### Featured repos
+
+| Project | Focus |
+|--------|--------|
+| [**mtg-archetype-trends-api**](https://github.com/andrewmurphy-dev/mtg-archetype-trends-api) | API · data |
+| [**housing-data-pipeline-service**](https://github.com/andrewmurphy-dev/housing-data-pipeline-service) | Pipelines |
+| [**SlotStatus**](https://github.com/andrewmurphy-dev/SlotStatus) | Practical tooling |
+
+---
+
+### Right now
+
+Working through a structured Python plan to sharpen **code quality** and move confidently toward **backend development** — APIs first, systems thinking always.
+
+---
+
+<div align="center">
+
+<sub>Built with curiosity · Python · ☕</sub>
+
+<!-- Optional: visitor count — remove if you prefer not to use -->
+<!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=andrewmurphy-dev.andrewmurphy-dev" alt="Visitors" /> -->
+
+</div>
+
