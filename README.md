@@ -71,11 +71,7 @@ Ship **2–3 strong Python backend projects** (documented, testable APIs or pipe
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=andrewmurphy-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3776AB&icon_color=FFD43B&text_color=c9d1d9&border_radius=12" alt="GitHub stats" />
 <img height="165" src="https://streak-stats.demolab.com?user=andrewmurphy-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=3776AB&fire=FFD43B&currStreakLabel=3776AB" alt="GitHub streak" />
 
-<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewmurphy-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3776AB&text_color=c9d1d9&langs_count=8&border_radius=12" alt="Top languages" />
-
-</div>
 
 ---
 
