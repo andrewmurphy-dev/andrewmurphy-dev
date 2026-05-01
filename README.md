@@ -1,13 +1,9 @@
-<!-- Copy this file to your profile repo as README.md (repo name = your username) -->
-
 <div align="center">
 
-<!-- Animated tagline — Python blue #3776AB -->
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Andrew+Murphy;Backend+Developer+%E2%80%94+Python;APIs+%E2%80%A2+Data+Pipelines+%E2%80%A2+CLI+Tools;Building+data-driven+systems+%F0%9F%90%8D" alt="Andrew Murphy — typing intro" />
 
 <br/>
 
-<!-- Core badges: Python yellow + blue palette -->
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Backend](https://img.shields.io/badge/Backend-1e293b?style=for-the-badge)](https://github.com/andrewmurphy-dev)
@@ -67,11 +63,10 @@ Ship **2–3 strong Python backend projects** (documented, testable APIs or pipe
 
 <div align="center">
 
-<!-- Replace username if yours differs -->
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=andrewmurphy-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3776AB&icon_color=FFD43B&text_color=c9d1d9&border_radius=12" alt="GitHub stats" />
 <img height="165" src="https://streak-stats.demolab.com?user=andrewmurphy-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=3776AB&fire=FFD43B&currStreakLabel=3776AB" alt="GitHub streak" />
 
-
+</div>
 
 ---
 
@@ -88,8 +83,6 @@ Ship **2–3 strong Python backend projects** (documented, testable APIs or pipe
 ### Right now
 
 Actively building in public: **readable PRs**, clearer **READMEs**, and APIs you can **run locally** — the same signals I’d want to see if I were reviewing a candidate.
-
----
 
 <div align="center">
 
