@@ -28,21 +28,25 @@
 <td width="50%" valign="top">
 
 #### Current focus
+
 - Shipping **portfolio backend work** in public: APIs, **data pipelines**, and **CLI** utilities
 - Leveling up on **FastAPI**, **Git/GitHub workflows**, testing, and **project structure** recruiters can review in-repo
 
 #### 2026 goal
+
 Ship **2–3 strong Python backend projects** (documented, testable APIs or pipelines) that hiring managers can **clone, run, and inspect** — proof of how I work, not just tutorials.
 
 </td>
 <td width="50%" valign="top">
 
 #### What I'm building
+
 - **MTG Archetype Trends API** — domain data exposed via an API
 - **Housing Data Pipeline Service** — ingest / transform / output patterns
 - **CLI tools** — automation and developer-facing utilities
 
 #### Stack
+
 `Python` · `FastAPI` · `REST` · `Git/GitHub` · `JSON & files` · `CLI` — deepening **Postgres** & **Docker** next
 
 </td>
@@ -63,8 +67,10 @@ Ship **2–3 strong Python backend projects** (documented, testable APIs or pipe
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=andrewmurphy-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3776AB&icon_color=FFD43B&text_color=c9d1d9&border_radius=12" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=andrewmurphy-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=3776AB&fire=FFD43B&currStreakLabel=3776AB" alt="GitHub streak" />
+[![GitHub followers](https://img.shields.io/github/followers/andrewmurphy-dev?style=for-the-badge&logo=github&logoColor=white&color=3776AB&labelColor=0d1117)](https://github.com/andrewmurphy-dev)
+[![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fandrewmurphy-dev&query=%24.public_repos&logo=github&logoColor=white&style=for-the-badge&label=public%20repos&color=FFD43B&labelColor=0d1117)](https://github.com/andrewmurphy-dev?tab=repositories)
+
+<img height="165" src="https://streak-stats.demolab.com?user=andrewmurphy-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=3776AB&fire=FFD43B&currStreakLabel=3776AB" alt="GitHub contribution streak" />
 
 </div>
 
@@ -83,13 +89,3 @@ Ship **2–3 strong Python backend projects** (documented, testable APIs or pipe
 ### Right now
 
 Actively building in public: **readable PRs**, clearer **READMEs**, and APIs you can **run locally** — the same signals I’d want to see if I were reviewing a candidate.
-
-<div align="center">
-
-<sub>Built with curiosity · Python · ☕</sub>
-
-<!-- Optional: visitor count — remove if you prefer not to use -->
-<!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=andrewmurphy-dev.andrewmurphy-dev" alt="Visitors" /> -->
-
-</div>
-
