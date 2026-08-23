@@ -88,6 +88,7 @@ ML とネイティブ推論に向けて、**C++20** を第二言語として毎�
 **BarTicket** は札幌の独立バーで稼働している本番システムです。ソースはクライアント案件のため非公開です。設計と API 仕様は [公開資料](https://github.com/andrewmurphy-dev/BarTicket-API-demo) を参照してください。デモは [LinkedIn](https://www.linkedin.com/in/andrew-murphy-2a63b4289) まで。
 
 BarTicket is production software for a Sapporo bar. The implementation is private (client work). Design and API spec: [public showcase](https://github.com/andrewmurphy-dev/BarTicket-API-demo). Demo via [LinkedIn](https://www.linkedin.com/in/andrew-murphy-2a63b4289).
+
 ---
 
 <div align="center">
