@@ -85,14 +85,9 @@ ML とネイティブ推論に向けて、**C++20** を第二言語として毎�
 
 ## 採用担当の方へ / For recruiters
 
-> 日本の選考では **README とコミット履歴** を重視されることが多いです。各リポジトリでは、コードそのものより「何を作ったか・なぜその設計にしたか」が分かるようにしています。
->
-> **BarTicket** は札幌の独立バーで稼働している本番システムです。ソースはクライアント案件のため非公開ですが、[公開のアーキテクチャ資料](https://github.com/andrewmurphy-dev/BarTicket-API-demo) で FastAPI / PostgreSQL / SQLAlchemy の設計と API 仕様を確認できます。デモをご希望の場合は [LinkedIn](https://www.linkedin.com/in/andrew-murphy-2a63b4289) からご連絡ください。
->
-> 日本語は学習中です。読み書きは collab で使用しています。
+**BarTicket** は札幌の独立バーで稼働している本番システムです。ソースはクライアント案件のため非公開です。設計と API 仕様は [公開資料](https://github.com/andrewmurphy-dev/BarTicket-API-demo) を参照してください。デモは [LinkedIn](https://www.linkedin.com/in/andrew-murphy-2a63b4289) まで。
 
-> I optimize for **clear READMEs and commit history**. BarTicket is production software for a real Sapporo bar. The implementation is private because it is client work; the [public architecture showcase](https://github.com/andrewmurphy-dev/BarTicket-API-demo) documents the FastAPI + PostgreSQL design. Demo available on request via [LinkedIn](https://www.linkedin.com/in/andrew-murphy-2a63b4289).
-
+BarTicket is production software for a Sapporo bar. The implementation is private (client work). Design and API spec: [public showcase](https://github.com/andrewmurphy-dev/BarTicket-API-demo). Demo via [LinkedIn](https://www.linkedin.com/in/andrew-murphy-2a63b4289).
 ---
 
 <div align="center">
